@@ -8,7 +8,7 @@ void main() {
     home: Scaffold(
       appBar: AppBar(
         //properties: value
-        title: const Text("Hello World"),
+        title: const Text("Hello World Test"),
         centerTitle: true,
       ),
       body: const Center(
